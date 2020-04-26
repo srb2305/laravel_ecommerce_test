@@ -20,14 +20,3 @@
     <li>Converted date in UK format</li>
     <li>All data is searching by keyword</li>  
 </ul>
-
-
-### srb 
-###https://www.itsolutionstuff.com/post/laravel-7-yajra-datatables-exampleexample.html
- 
-
- ## for create a new seeder run
- - composer dump-autoload
- - php artisan db:seed   
- or - php artisan db:seed --class=OrderSeeder
-# laravel_ecommerce_test
